@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amirreza-taqavi
-- 👀 I’m interested in JavaScript , nodeJs , python , AI , ML 
-- 🌱 I’m currently learning node Js
-- 📫 const HowToReachMe ={
+- 👀 I’m interested in python  
+- 🌱 I’m currently learning django
+- 📫 HowToReachMe ={
 - gmail : "amirrezataqavi2003@gmail.com",
 - telegram : "amir_tqv",
 - instagram : "amir_tqv"
